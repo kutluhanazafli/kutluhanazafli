@@ -77,7 +77,7 @@
 <a href="https://medium.com/kutluhanazafli" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/kutluhanazafli" target="_blank">
+<a href="https://instagram.com/kutluhanazaflii" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://codepen.com/kutluhanazafli" target="_blank">
@@ -104,7 +104,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Recent Medium Posts  
 <!-- MEDIUM:START -->
 - [Windows Server 2022 ile DHCP Cluster Yapısı Oluşturmak](https://kutluhanazafli.medium.com/windows-server-2022-ile-dhcp-cluster-yapisi-olusturmak-bb97749c085c?source=rss-fb75f2747a37------2)
 - [Ubuntu Desktop ile DHCP Cluster Yapısı Oluşturmak](https://kutluhanazafli.medium.com/ubuntu-desktop-ile-dhcp-cluster-yapisini-olusturmak-8b1c595fa715?source=rss-fb75f2747a37------2)
