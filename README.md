@@ -105,8 +105,9 @@
 
 
 ## Recent Blog Posts  
-<!-- MEDIUM:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- MEDIUM:START -->
+- [Windows Server 2022 ile DHCP Cluster Yapısı Oluşturmak](https://kutluhanazafli.medium.com/windows-server-2022-ile-dhcp-cluster-yapisi-olusturmak-bb97749c085c?source=rss-fb75f2747a37------2)
+- [Ubuntu Desktop ile DHCP Cluster Yapısı Oluşturmak](https://kutluhanazafli.medium.com/ubuntu-desktop-ile-dhcp-cluster-yapisini-olusturmak-8b1c595fa715?source=rss-fb75f2747a37------2)
 <!-- MEDIUM:END -->  
 
 <br/>  
