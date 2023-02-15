@@ -106,6 +106,8 @@
 
 ## Recent Medium Posts  
 <!-- MEDIUM:START -->
+- [Drone Geliştirme Ortamı Kurulumu](https://kutluhanazafli.medium.com/drone-gelistirme-ortami-kurulumu-975194e72b7c?source=rss-fb75f2747a37------2)
+- [Raspberry Pi Kurulum](https://kutluhanazafli.medium.com/raspberry-pi-kurulum-fcce706ed648?source=rss-fb75f2747a37------2)
 - [Windows Server 2022 ile DHCP Cluster Yapısı Oluşturmak](https://kutluhanazafli.medium.com/windows-server-2022-ile-dhcp-cluster-yapisi-olusturmak-bb97749c085c?source=rss-fb75f2747a37------2)
 - [Ubuntu Desktop ile DHCP Cluster Yapısı Oluşturmak](https://kutluhanazafli.medium.com/ubuntu-desktop-ile-dhcp-cluster-yapisini-olusturmak-8b1c595fa715?source=rss-fb75f2747a37------2)
 <!-- MEDIUM:END -->  
