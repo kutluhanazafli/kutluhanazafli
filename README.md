@@ -106,11 +106,11 @@
 
 ## Recent Medium Posts  
 <!-- MEDIUM:START -->
+- [CyberExam — Uncovering Hidden SSID Challenge Çözümü](https://kutluhanazafli.medium.com/cyberexam-uncovering-hidden-ssid-challenge-b3e808fdfefc?source=rss-fb75f2747a37------2)
 - [Ubuntu’ya Kali Linux Toolları Kurulumu](https://kutluhanazafli.medium.com/ubuntu-kali-linux-toollar%C4%B1-kurulumu-193393880176?source=rss-fb75f2747a37------2)
 - [Monster Bilgisayarlarda Linux İçin Ayarlar](https://kutluhanazafli.medium.com/monster-bilgisayarlarda-linux-icin-ayarlar-cb1472e65140?source=rss-fb75f2747a37------2)
 - [Drone Geliştirme Ortamı Kurulumu](https://kutluhanazafli.medium.com/drone-gelistirme-ortami-kurulumu-975194e72b7c?source=rss-fb75f2747a37------2)
 - [Raspberry Pi Kurulum](https://kutluhanazafli.medium.com/raspberry-pi-kurulum-fcce706ed648?source=rss-fb75f2747a37------2)
-- [Raspberry Pi Kamera Nasıl Aktive Edilir?](https://kutluhanazafli.medium.com/raspberry-pi-kamera-nas%C4%B1l-aktive-edilir-55277f2fdffb?source=rss-fb75f2747a37------2)
 <!-- MEDIUM:END -->  
 
 <br/>  
